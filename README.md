@@ -1,5 +1,5 @@
-#spring-boot-beta-one
+# spring-boot-beta-one
 ~~~~~~~~~~~~
-##introduction
+## introduction
 ~~~~~~~~~
 this is a spring boot demo project
